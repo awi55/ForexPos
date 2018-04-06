@@ -1,0 +1,11 @@
+C:\POS\myPos\myPos\bin\Release\myPos.exe.config
+C:\POS\myPos\myPos\bin\Release\myDatabase.mdf
+C:\POS\myPos\myPos\bin\Release\myDatabase_log.ldf
+C:\POS\myPos\myPos\bin\Release\myPos.exe
+C:\POS\myPos\myPos\bin\Release\myPos.pdb
+C:\POS\myPos\myPos\obj\Release\myPos.csprojResolveAssemblyReference.cache
+C:\POS\myPos\myPos\obj\Release\myPos.Properties.Resources.resources
+C:\POS\myPos\myPos\obj\Release\myPos.csproj.GenerateResource.Cache
+C:\POS\myPos\myPos\obj\Release\myPos.exe
+C:\POS\myPos\myPos\obj\Release\myPos.pdb
+C:\POS\myPos\myPos\obj\Release\myPos.Form1.resources

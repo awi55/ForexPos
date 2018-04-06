@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="myPos" GeneratedClassName="MySettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CompanyName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Company Name</Value>
+    </Setting>
+    <Setting Name="StoreAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Store Address</Value>
+    </Setting>
+    <Setting Name="ACN" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ACN</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
